@@ -7,7 +7,10 @@
   <img align="center" width="15%" height="25%" alt="" src="https://img.shields.io/badge/Linguagem-C-blue">
 </p>
 <p align="center"> 
-  <img align="center" width="15%" height="25%" alt="" src="https://img.shields.io/badge/IDE-VS%2520Code-green ">
+  <img align="center" width="15%" height="25%" alt="" src="https://img.shields.io/badge/IDE-VISUAL STUDIO CODE-green">
+</p>
+<p align="center"> 
+  <img align="center" width="15%" height="25%" alt="" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange">
 </p>
 
 
