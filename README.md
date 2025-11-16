@@ -3,8 +3,7 @@
 <p align="center">
   <img width="25%" height="25%" alt="C_Logo" src="https://github.com/user-attachments/assets/5c851c77-55a5-49bc-bc1f-e27959451cb9">
 
-  <img width="25%" height="25%" alt="" src="https://img.shields.io/badge/Linguagem-C-blue">
-
+  <img align="center" width="15%" height="25%" alt="" src="https://img.shields.io/badge/Linguagem-C-blue">
 </p>
 
 
