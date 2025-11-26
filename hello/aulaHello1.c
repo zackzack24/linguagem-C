@@ -7,7 +7,7 @@
 int main() {      
       setlocale(LC_ALL,"Portuguese"); // configuração para o idioma português      
       system("color 1F"); //  mudança da cor do texto no terminal
-      printf("\nHello World!");
+      printf("\nHello World!"); // imprime a mensagem Hello World!
       printf("\nOlá Mundo!\n");     
       system("cls"); // comando para limpar a tela
       printf("Isaac Silva");

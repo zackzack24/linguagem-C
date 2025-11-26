@@ -4,7 +4,7 @@
 #include <locale.h> // biblioteca para que a acentuação funcione
 
 // aula 2: Entrada de dados em C
-int main(int argc, char *argv[])
+int main(int argc, char *argv[]) // função principal do programa (main)
 {
       char nome[30]; // declaração da variável nome
       printf("Digite seu nome: "); // pede para o usuário digitar o nome
